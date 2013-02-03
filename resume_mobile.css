@@ -1,0 +1,25 @@
+body {
+	background-color: rgba(29,128,0,0.65);
+	font-size: large;
+}
+
+.name, .school, .course, .skill {
+	color: deepskyblue;
+	text-align: center
+}
+
+.pro, .pro1, .pro2, .pro3 {
+	color: red;
+	text-align: center;
+}
+
+.activities {
+	color: blue;
+	text-align: center;
+}
+
+h1 {
+	font-size: x-large;
+	color: black;
+	margin-left: 45%;
+}
