@@ -1,18 +1,18 @@
 .name {
 	font-family: fantasy;
 	font-size: large;
-	color: white;
+	color: silver;
 	text-align: center;
 }
 
 .resume, .bio {
 	font-size: large;
-	color: white;
+	color: silver
 	text-align: center;
 }
 
 .bio {
-	color: #ffbfca;
+	color: yellow;
 }
 
 .pic {
@@ -23,6 +23,6 @@
 }
 
 body {
-	background-color: navy;
+	background-color: pink;
 }
 
