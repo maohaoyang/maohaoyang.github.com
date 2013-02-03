@@ -1,7 +1,7 @@
 .name {
 	font-family: fantasy;
 	font-size: large;
-	color: green;
+	color: blue;
 	text-align: center;
 }
 
@@ -23,6 +23,6 @@
 }
 
 body {
-	background-color: rgba(27,200,145,0.5)
+	background-color: navy;
 }
 
