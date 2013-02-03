@@ -1,0 +1,28 @@
+.name {
+	font-family: fantasy;
+	font-size: large;
+	color: green;
+	text-align: center;
+}
+
+.resume, .bio {
+	font-size: large;
+	color: black;
+	text-align: center;
+}
+
+.bio {
+	color: gray;
+}
+
+.pic {
+	position: absolute;
+	margin-left: 25%;
+	width: 100px;
+	height: 150px;
+}
+
+body {
+	background-color: rgba(27,200,145,0.5)
+}
+
