@@ -1,0 +1,2 @@
+The part I spent a lot of time is where we need to define the device into applying two different style sheets. Here is my definition.
+Using dice.css device:Nexus 7ipad 3+Using nodice.css device:Samsung Galaxy S IIIiPhone 4iPhone 5iPad 2Other devices prior to 2011I finished this lab by myself.I spent 2 hours working on this lab.
