@@ -1,1 +1,0 @@
-I have been able to work pretty well on the most part of this assignment because of the practice of previous labs. However, setting up two different versions of CSS stylesheet is sort of foreign to me and took me a lot of time to write the second version of the stylesheet.I have finished this assignment by myself.I have worked on this assignment for about 4 hours.
