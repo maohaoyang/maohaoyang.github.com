@@ -12,6 +12,7 @@ else {
 		alert("Geolocation is not supported by your web browser.  What a shame!");
 };
 
+function post() {
 var 1 = document.getElementById('year');
 var 2 = document.getElementById('make');
 var 3 = document.getElementById('model');
@@ -40,3 +41,4 @@ phonenumber : 11
 email : 12
 lat : myLat,
 long : myLng } );
+}
