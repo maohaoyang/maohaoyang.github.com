@@ -1,0 +1,26 @@
+h1 {
+	font-family: cursive;
+	font-size: xx-large;
+	font-style: italic;
+	color: fuchsia; 
+}
+
+.bio {
+	font-size: x-large;
+	font-style: italic;
+}
+
+.contact {
+	font-style: inherit;
+	font-size: large;
+}
+
+.name {
+	font-size: large;
+	color: fuchsia;
+}
+
+body {
+	background-color: gray;
+	text-align: center;
+}
