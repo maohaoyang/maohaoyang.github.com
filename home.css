@@ -1,0 +1,47 @@
+a {
+	font-size: x-large;
+	text-decoration: none;
+	color: black;
+	
+}
+
+p {
+	font-size: large;	
+}
+
+.blank {
+	font-size: large;
+	text-align: center;
+}
+
+.num1, .num2 {
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+
+.num3 {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.num4 {
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+
+.num5 {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-family: fantasy;
+}
+
+h3 {
+	font-family: fantasy;
+}
